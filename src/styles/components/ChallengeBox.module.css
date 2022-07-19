@@ -105,7 +105,7 @@
   font-size: 1rem;
   font-weight: 600;
 
-  transition: background-color 0.2s;
+  transition: filter 0.2s;
 }
 
 .challengeActive footer button.challengeFailedButton {
@@ -118,7 +118,6 @@
 
 .challengeActive footer button:hover {
   filter: brightness(0.9);
-
 }
 
 
