@@ -1,5 +1,6 @@
 import { useContext } from 'react'
 import { ChallengesContext } from '../contexts/ChallengesContext'
+import { AiOutlineClose } from 'react-icons/ai'
 
 import styles from '../styles/components/LevelUpModal.module.css'
 
@@ -15,7 +16,7 @@ export function LevelUpModal (){
           <p>Você alcançou um novo level.</p>
 
           <button type='button' onClick={closeLevelUpModal}>
-            <img src="/icons/close.svg" alt="Fechar modal" />
+            <AiOutlineClose/>
           </button>
         </div>
       </div>     

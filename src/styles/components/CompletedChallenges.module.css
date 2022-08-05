@@ -5,7 +5,7 @@
 
   margin-block: 3.5rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #d7d8da;
+  border-bottom: 1px solid var(--purple-light);
 
   font-weight: 500;
 }

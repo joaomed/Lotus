@@ -27,7 +27,7 @@
 .container header {
   font-size: 8.75rem;
   font-weight: 600;
-  color: var(--blue);
+  color: var(--purple);
   background: url('/icons/levelup.svg') no-repeat center;
   background-size: contain;
 }
@@ -49,6 +49,19 @@
   top: 0.5rem;
   background: transparent;
   border: 0;
-  font-size: 0px;
+  color: var(--blue);
+  transition: filter 0.2s;
 }
+
+.container button:hover {
+  filter: brightness(0.5); 
+}
+
+.container svg {
+  height: 1.5rem;
+  width: 1.5rem; 
+}
+
+
+
 

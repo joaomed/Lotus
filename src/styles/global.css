@@ -7,16 +7,15 @@
 :root {
   /*LigthMode*/
   --white:#fff;
-  --background: #f2f3f5;
+  --background: #FCE2DB;
   --gray-line: #dcdde0;
   --text: #666666;
-  --text-highlight: #b3b9ff;
   --title: #2e384d;
   --red: #e83f5b;
-  --green: #4cd62b;
-  --blue: #5965e0;
-  --blue-dark: #4953b8;
-  --blue-twitter: #2aa9e0; 
+  --pink: #FF8FB1;
+  --purple-light: #b395ab;
+  --purple: #7A4495;
+  --purple-dark: #681691;  
 }
 
 /* 16x0.9375 = 15 (diminui 1 px)*/

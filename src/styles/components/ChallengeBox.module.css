@@ -29,7 +29,7 @@
 
 .challengeNotActive svg{
   font-size: 5rem;
-  color: var(--green);
+  color: var(--pink);
 
 }
 
@@ -113,7 +113,7 @@
 }
 
 .challengeActive footer button.challengeSucceededButton {
-  background-color: var(--green);
+  background-color: var(--pink);
 }
 
 .challengeActive footer button:hover {
