@@ -1,3 +1,29 @@
+# <img src="https://user-images.githubusercontent.com/40302980/188787245-9e3cd6c1-26ab-4684-b3c2-cf9da6a8fd2b.png" /> Lotus <img src="https://user-images.githubusercontent.com/40302980/188787245-9e3cd6c1-26ab-4684-b3c2-cf9da6a8fd2b.png" />
+ 
+## About the project 
+ 
+Project developed together with the NLW#4-TrilhaReactJs event (@RocketSeat) in order to produce a Countdown that at the end of its cycle provides the user with a challenge so that it can be completed. Thus, adding to the user an application focused on studies and at the same time with a gamer aspect.
+Hope you like it!  
+ 
+The project is in development for new functions.
+  
+ ## 💡 Technologies
+
+ + ReactJS
+ + NextJS
+ + CSS Modules
+ + TypeScript
+ + ContextAPI
+ + Hooks
+ + JS-Cookie (Storage - Cookies)
+
+## 💻 Web
+### Images
+
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/40302980/188786321-3e66c599-437f-432d-961a-5e383dda8de5.png" />
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -27,8 +53,8 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploy on Netlify
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The deploy of the application was done through the Netlify platform [Netlify Platform]
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
